@@ -1,4 +1,4 @@
-#Knowledge Analysis and Processing -- 2020 Fall
+# Knowledge Analysis and Processing -- 2020 Fall
 
 Time: **10:00 — 12:00 ,Tuesday**
 
@@ -107,7 +107,7 @@ Welcome to Knowledge Analysis and Processing class 2020 Fall :)
 
 
 ---
-##Project
+## Project
 
 | Date&Location | Time | Person1 | Person2 | Person3 | Person4 | Person5 |
 | ---- | :---: | :----: | :----: | :----: | :----: | :----: |
