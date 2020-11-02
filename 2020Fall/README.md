@@ -1,10 +1,10 @@
 # Knowledge Analysis and Processing -- 2020 Fall
 
-Time: **10:00 — 12:00 ,Tuesday**
+Time: **10:00 — 11:30 ,Tuesday**
 
-Venue: Room 111, Culture and history building.
+Venue: Room 111, Culture and History Building.
 
-Welcome to Knowledge Analysis and Processing class 2020 Fall :)
+Welcome to Knowledge Analysis and Processing course 2020 Fall :)
 
 ---
 
