@@ -2,7 +2,7 @@
 
 Time: **10:00 — 11:30 ,Tuesday**
 
-Venue: Room 111, Culture and History Building.
+Venue: Room 111, WenShi Building.
 
 Welcome to Knowledge Analysis and Processing course 2020 Fall :)
 
