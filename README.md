@@ -21,7 +21,7 @@ Welcome to Knowledge Analysis and Processing course 2020 Fall :)
 
 ## Agenda
 
-### Please upload your PPT file to the online disk(http://xzc.cn/U8T3zt5E33) for students who share the paper **before December 2nd**
+### Please upload your PPT file to the [online disk](http://xzc.cn/U8T3zt5E33) for students who share the paper **before December 2nd**
 
 
 | Date | Speaker | Conference | Paper                                                     | Materials |
