@@ -45,7 +45,7 @@ Welcome to Knowledge Analysis and Processing course 2020 Fall :)
 | 11.12 | 高桢 | ICLR2020 | [Tensor Decompositions for temporal knowledge base completion](https://arxiv.org/pdf/2004.04926v1.pdf) |  |
 | 11.19 | 董家顺 | EMNLP19 | [Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs](https://www.aclweb.org/anthology/D19-1274.pdf) |  |
 | 11.19 | 彭凯龙 | REFSQ2020 | [Automatic Word Embeddings-Based Glossary Term Extraction from Large-Sized Software Requirements](https://link.springer.com/chapter/10.1007/978-3-030-44429-7_15) |  |
-| 11.19 | 陈妍 | AAAI2020 | [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967) |  |
+| 11.19 | 陈妍 |  | [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967) |  |
 | 11.19 | 李宇佳 | ICLR2020 | [Composition-based multi-relational graph convolutional networks](https://arxiv.org/pdf/1911.03082.pdf) |  |
 | 11.19 | 叶正韩 |  | [Learning to Update Knowledge Graphs by Reading News](nan) |  |
 | 11.19 | 浦天岭 |  | [Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment](https://www.ijcai.org/Proceedings/2020/0506.pdf) |  |
