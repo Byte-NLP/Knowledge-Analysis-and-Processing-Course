@@ -33,9 +33,8 @@ Welcome to Knowledge Analysis and Processing course 2020 Fall :)
 | 11.05 | 郑源 | EMNLP19 | [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning ](https://www.aclweb.org/anthology/D19-1282.pdf ) |  |
 | 11.05 | 刘平生 | AAAI2020 | [K-BERT: Enabling Language Representation with Knowledge Graph](https://aaai.org/ojs/index.php/AAAI/article/view/5681) |  |
 | 11.05 | 陈少斌 | EMNLP19 | [Machine Reading Comprehension Using Structural Knowledge Graph-aware Network](https://www.aclweb.org/anthology/D19-1602.pdf) |  |
-| 11.05 | 陈豪 | ACL20 | [Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](https://www.aclweb.org/anthology/2020.acl-main.412.pdf) |  |
-| 11.12 | 金智伟 | AAAI 2019 | [Mining Entity Synonyms with Efficient Neural Set Generation](https://www.aaai.org/ojs/index.php/AAAI/article/view/3792) |  |
-| 11.12 | 刘金昊 | KDD 2019 | [Hierarchical Multi-Task Word Embedding Learning for Synonym Prediction](https://dl.acm.org/doi/abs/10.1145/3292500.3330914) |  |
+| 11.12 | 金智伟 | AAAI 2019 | [Hierarchical Multi-Task Word Embedding Learning for Synonym Prediction](https://www.aaai.org/ojs/index.php/AAAI/article/view/3792) |  |
+| 11.12 | 刘金昊 | KDD 2019 | [Mining Entity Synonyms with Efficient Neural Set Generation](https://dl.acm.org/doi/abs/10.1145/3292500.3330914) |  |
 | 11.12 | 吴霞 | IEEE 2018 | [Automatic Glossary Term Extraction from Large-Scale Requirements Specifications](https://ieeexplore.ieee.org/abstract/document/8491159) |  |
 | 11.12 | 苏家明 | ACL2020 | [Reasoning with Latent Structure Refinement for Document—Level Relation Extraction](https://arxiv.org/pdf/2005.06312v3.pdf) |  |
 | 11.12 | 但宇豪 | IJCAI2020 | ["BERT-INT: A BERT-based Interaction Model For Knowledge Graph Alignment](https://www.ijcai.org/Proceedings/2020/0439.pdf) |  |
@@ -43,7 +42,7 @@ Welcome to Knowledge Analysis and Processing course 2020 Fall :)
 | 11.12 | 陈龙 | ACL20 | [A Data-driven Approach for Noise Reduction in Distantly Supervised Biomedical Relation Extraction](https://www.aclweb.org/anthology/2020.bionlp-1.20.pdf) |  |
 | 11.12 | 黄志锋 | ACL19 | [GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction](https://www.aclweb.org/anthology/P19-1136.pdf) |  |
 | 11.12 | 高桢 | ICLR2020 | [Tensor Decompositions for temporal knowledge base completion](https://arxiv.org/pdf/2004.04926v1.pdf) |  |
-| 11.19 | 董家顺 | EMNLP19 | [Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs](https://www.aclweb.org/anthology/D19-1274.pdf) |  |
+| 11.19 | 董家顺 | EMNLP19 | [Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://www.aclweb.org/anthology/D19-1274.pdf) |  |
 | 11.19 | 彭凯龙 | REFSQ2020 | [Automatic Word Embeddings-Based Glossary Term Extraction from Large-Sized Software Requirements](https://link.springer.com/chapter/10.1007/978-3-030-44429-7_15) |  |
 | 11.19 | 陈妍 |  | [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967) |  |
 | 11.19 | 李宇佳 | ICLR2020 | [Composition-based multi-relational graph convolutional networks](https://arxiv.org/pdf/1911.03082.pdf) |  |
@@ -51,6 +50,7 @@ Welcome to Knowledge Analysis and Processing course 2020 Fall :)
 | 11.19 | 浦天岭 |  | [Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment](https://www.ijcai.org/Proceedings/2020/0506.pdf) |  |
 | 11.19 | 蔡修远 | EMNLP2018 | [Multi-Task Identification of Entities, Relations, and Coreference](https://arxiv.org/abs/1808.09602		) |  |
 | 11.19 | 林家驹 | ACL20 | [ZeroShotCeres: Zero—Shot Relation Extraction from Semi-Structured Webpages](https://www.aclweb.org/anthology/2020.acl-main.713.pdf) |  |
+| 11.19 | 陈豪 | ACL20 | [Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](https://www.aclweb.org/anthology/2020.acl-main.412.pdf) |  |
 | 11.26 | 丁鹿新 | ACL20 | [TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition](https://www.aclweb.org/anthology/2020.acl-main.752/) |  |
 | 11.26 | 陶明沺 | EMNLP19 | [DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs](https://www.aclweb.org/anthology/D19-1194.pdf) |  |
 | 11.26 | 孙雨晶 |  | [KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis](https://www.aclweb.org/anthology/2020.acl-main.292.pdf) |  |
