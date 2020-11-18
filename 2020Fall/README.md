@@ -46,7 +46,7 @@ Welcome to Knowledge Analysis and Processing course 2020 Fall :)
 | 11.19 | 彭凯龙 | REFSQ2020 | [Automatic Word Embeddings-Based Glossary Term Extraction from Large-Sized Software Requirements](https://link.springer.com/chapter/10.1007/978-3-030-44429-7_15) |  |
 | 11.19 | 陈妍 |  | [Language Models are Open Knowledge Graphs](https://arxiv.org/abs/2010.11967) |  |
 | 11.19 | 李宇佳 | ICLR2020 | [Composition-based multi-relational graph convolutional networks](https://arxiv.org/pdf/1911.03082.pdf) |  |
-| 11.19 | 叶正韩 |  | [Learning to Update Knowledge Graphs by Reading News](nan) |  |
+| 11.19 | 叶正韩 | EMNLP20 | [Message Passing for Hyper-Relational Knowledge Graphs](Message Passing for Hyper-Relational Knowledge Graphs) |  |
 | 11.19 | 浦天岭 |  | [Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment](https://www.ijcai.org/Proceedings/2020/0506.pdf) |  |
 | 11.19 | 蔡修远 | EMNLP2018 | [Multi-Task Identification of Entities, Relations, and Coreference](https://arxiv.org/abs/1808.09602		) |  |
 | 11.19 | 林家驹 | ACL20 | [ZeroShotCeres: Zero—Shot Relation Extraction from Semi-Structured Webpages](https://www.aclweb.org/anthology/2020.acl-main.713.pdf) |  |
