@@ -53,8 +53,8 @@ Welcome to Knowledge Analysis and Processing course 2020 Fall :)
 | 11.19 | 陈豪 | ACL20 | [Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](https://www.aclweb.org/anthology/2020.acl-main.412.pdf) |  |
 | 11.26 | 丁鹿新 | ACL20 | [TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition](https://www.aclweb.org/anthology/2020.acl-main.752/) |  |
 | 11.26 | 陶明沺 | EMNLP19 | [DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs](https://www.aclweb.org/anthology/D19-1194.pdf) |  |
-| 11.26 | 孙雨晶 |  | [KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis](https://www.aclweb.org/anthology/2020.acl-main.292.pdf) |  |
-| 11.26 | 陈晗锋 | EMNLP19 | [Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs](https://www.aclweb.org/anthology/D19-1631.pdf) |  |
+| 11.26 | 孙雨晶 | ACL20 | [KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis](https://www.aclweb.org/anthology/2020.acl-main.292.pdf) |  |
+| 11.26 | 陈晗锋 | SIGIR2020 | [Degree-Aware Alignment for Entities in Tail ](https://arxiv.org/pdf/2005.12132.pdf ) |  |
 | 11.26 | 梁梦雯 | AAAI2020 | [CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi—Task Learning](https://arxiv.org/pdf/1911.10438.pdf) |  |
 | 11.26 | 李钦源 | WWW'2019 | [Keyphrase Extraction from Disaster-related Tweets](https://dl.acm.org/doi/abs/10.1145/3308558.3313696) |  |
 | 11.26 | 张亚东 | ACL2020 | [NeuInfer: Knowledge Inference on N-ary Facts](https://www.aclweb.org/anthology/2020.acl-main.546.pdf) |  |
