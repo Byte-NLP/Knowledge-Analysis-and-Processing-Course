@@ -60,7 +60,7 @@ Welcome to Knowledge Analysis and Processing course 2020 Fall :)
 | 11.26 | 张亚东 | ACL2020 | [NeuInfer: Knowledge Inference on N-ary Facts](https://www.aclweb.org/anthology/2020.acl-main.546.pdf) |  |
 | 11.26 | 胡梦琦 | EMNLP19 | [DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning](https://www.aclweb.org/anthology/D19-1266.pdf) |  |
 | 12.03 | 刘申 | ACL20 | [Breaking Through the 80% Glass Ceiling:](https://www.aclweb.org/anthology/2020.acl-main.255.pdf) |  |
-| 12.03 | 蔡泽锋 | EMNLP19 | [Raising the State of the Art in Word Sense Disambiguation](https://www.aclweb.org/anthology/D19-1602.pdf) |  |
+| 12.03 | 蔡泽锋 | EMNLP19 | [Improving Question Answering with External Knowledge](www.aclweb.org/anthology/D19-5804/) |  |
 | 12.03 | 周浩 | IJCAI20 | [A Relation—Specific Attention Network for Joint Entity and Relation Extraction](https://www.ijcai.org/Proceedings/2020/0561.pdf ) |  |
 | 12.03 | 陈雨 |  | [TuckER: Tensor Factorization for Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1522.pdf ) |  |
 | 12.03 | 金俊涛 | KDD2020 | [Dynamic Knowledge Graph based Multi-Event Forecasting](https://dl.acm.org/doi/pdf/10.1145/3394486.3403209) |  |
