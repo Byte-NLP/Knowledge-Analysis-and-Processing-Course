@@ -69,7 +69,7 @@ Welcome to Knowledge Analysis and Processing course 2020 Fall :)
 | 12.03 | 邱增玉 | EMNLP2019 | [A Non-commutative Bilinear Model for Answering Path Queries in Knowledge Graphs](https://www.aclweb.org/anthology/D19-1246.pdf) |  |
 | 12.10 | 张佳雯 | AAAI2020 | [Are Noisy Sentences Useless for Distant Supervised Relation Extraction?](https://arxiv.org/pdf/1911.09788.pdf) |  |
 | 12.10 | 叶加博 | AAAI20 | [Connecting Embeddings for Knowledge Graph Entity Typing](https://www.aclweb.org/anthology/2020.acl-main.572.pdf) |  |
-| 12.10 | 张耐 | KDD2019 | [KGAT: Knowledge Graph Attention Network for Recommendation](https://dl.acm.org/doi/10.1145/3292500.3330989) |  |
+| 12.10 | 张耐 | CIKM19 | [RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems](  http://cn.arxiv.org/abs/1803.03467) |  |
 | 12.10 | 刘家伟 | ACL20 | [SEEK: Segmented Embedding of Knowledge Graphs](https://www.aclweb.org/anthology/2020.acl-main.358.pdf) |  |
 | 12.10 | 李楷达 | EMNLP19 | [Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning](https://www.aclweb.org/anthology/D19-1264.pdf) |  |
 | 12.10 | 汪志伟 | ACL2019 | [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/pdf/1906.05317.pdf) |  |
